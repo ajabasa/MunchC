@@ -36,7 +36,8 @@
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id"/>
+            android:value="513663225460857"/>
+
 
     </application>
 
